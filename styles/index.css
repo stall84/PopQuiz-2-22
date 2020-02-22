@@ -10,7 +10,8 @@ body {
     
 }
 
-/* I set out to use flexbox styling but ended up not needing to really use it. .. text alignment worked fine. With more time I might redesign with flexobx styling*/
+/* I set out to use flexbox styling but ended up not needing to really use it. .. text alignment worked fine. With more time I might redesign with flexobx styling
+ to individually flex-align to center the image and anchor tag*/
 
 #container {
 
